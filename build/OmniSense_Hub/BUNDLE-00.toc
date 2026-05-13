@@ -1,3 +1,0 @@
-([('OmniSense_Hub',
-   '/Users/rajnish/My_AI_Project/dist/OmniSense_Hub',
-   'EXECUTABLE')],)

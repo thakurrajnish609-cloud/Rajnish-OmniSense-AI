@@ -1,3 +1,0 @@
-([('Rajnish_SafeGuard_v2',
-   '/Users/rajnish/My_AI_Project/dist/Rajnish_SafeGuard_v2',
-   'EXECUTABLE')],)
